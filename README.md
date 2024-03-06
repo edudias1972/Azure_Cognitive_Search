@@ -229,6 +229,9 @@ link: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/L
 
 
 Descrição da Aula LAB900 - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+Neste LAB, aplicaremos técnicas de organização de documentos e conduziremos pesquisas eficientes através da ingestão de dados,
+seguindo três passos essenciais: ingestão de conhecimento de IA, criação do índice correspondente e exploração dessas funcionalidades. 
+Ao final, ganharemos uma visão prática das potencialidades oferecidas por essas ferramentas na mineração de conhecimento.
 
 Iniciando
 ![image](https://github.com/edudias1972/Azure_Cognitive_Search/assets/80340034/bc6faff7-9033-4e5f-935e-55ef93172b7e)
